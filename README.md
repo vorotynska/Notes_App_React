@@ -7,3 +7,5 @@ Dependencies :
 
 Features to add:
  1.Sync Notes with localStorage
+ 2.Add note summary title
+ 3.Delete notes
